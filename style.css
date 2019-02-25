@@ -29,19 +29,15 @@ header {
 }
 #section{
     float: left;
-    /*width:58%;*/
     width: 495px;
     background: #ebebeb;
     height: 300px;
     margin: 5px 0px 20px 0px;
     padding: 20px;
-
 }
 #article{
-   /* width:45%;*/
     background:#777;
     padding-top: 15px;
-    /*height:250px;*/
     height: 200px;
     position: absolute;
     top: 15px;
@@ -49,9 +45,6 @@ header {
     width: 451px;
     margin-top: 60px;
     color: #ebebeb;
-}
-aside{
-    float:left;
 }
 .left{
     position: relative;
